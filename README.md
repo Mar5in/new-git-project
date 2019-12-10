@@ -1,0 +1,1 @@
+A simple example Project to learn and understand, how git and github work
